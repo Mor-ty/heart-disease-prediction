@@ -39,7 +39,7 @@ The dataset used in this project is the [Heart Disease UCI dataset](https://arch
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 
-##RESULTS
+## RESULTS
 After tuning with GridSearchCV, the Random Forest model performed best with:<br>
-accuracy: 89.2%
+accuracy: 89.2%<br>
 n_estimators: 20
